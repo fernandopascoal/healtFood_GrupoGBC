@@ -1,0 +1,26 @@
+.footer{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.copy{
+    color: #1d164d;
+}
+
+.terms {
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.terms-link{
+    margin-right: 30px;
+    text-decoration: none;
+    color: #818181;
+}
+
+.terms-link:hover{
+    color: #1d164d;
+}
